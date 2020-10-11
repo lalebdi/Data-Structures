@@ -21,3 +21,11 @@ O(2^n) Exponential- recursive algorithms that solves a problem of size N
 </br>
 O(n!) Factorial- you are adding a loop for every element
 </br>
+
+
+Iterating through half a collection is still O(n) 
+</br>
+Two separate collections: O(a * b) -> e.g. nested for loops.
+</br>
+functions on the same indentation: O(a + b).
+</br>
