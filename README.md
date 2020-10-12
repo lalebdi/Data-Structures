@@ -29,3 +29,6 @@ Two separate collections: O(a * b) -> e.g. nested for loops.
 </br>
 functions on the same indentation: O(a + b).
 </br>
+
+
+-What can cause time in a function?
