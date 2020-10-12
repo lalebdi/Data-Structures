@@ -39,5 +39,8 @@ Outside Function call (function())
 
 -What causes Space complexity?
 
-
+Variables
+Data Structures
+Function Call
+Allocations
 
